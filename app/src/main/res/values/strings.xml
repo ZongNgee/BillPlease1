@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="discount">Discount (%)</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">Paynow</string>
+    <string name="clear">CLEAR</string>
+    <string name="split">SPLIT</string>
+</resources>
